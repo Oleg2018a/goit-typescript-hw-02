@@ -89,7 +89,7 @@ const page2 = {
   title: 'Python or Js',
   likes: 5,
   accounts: ['Alex'],
-  status: 'close',
+  status: 'close',6
 }
 ```
 Створіть новий тип даних, який підходить для цих двох об'єктів.
